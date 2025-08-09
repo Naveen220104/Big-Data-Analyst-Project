@@ -58,18 +58,21 @@ To identify patterns, trends, and insights in airline delay and cancellation dat
 📉 A steady improvement in on-time performance after 2015.
 
 🚀 How to Run
-Clone the repository:
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/big-data-analysis.git
+   
+2. Navigate to the project folder
+   ```
+   cd big-data-analysis
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/big-data-analysis.git
-cd big-data-analysis
-Open the notebook:
+3. Open the notebook:
+   ```
+   Use Jupyter, Google Colab, or Kaggle.
 
-Use Jupyter, Google Colab, or Kaggle.
-
-Run big-data-analysis.ipynb cell by cell.
+4. Run the file:
+   ```
+   Run big-data-analysis.ipynb cell by cell.
 
 💡 This notebook is designed for environments that can handle large files like Kaggle Kernels or Colab Pro.
 
